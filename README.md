@@ -153,7 +153,7 @@ Insight: This suggests that customers who feel unprotected online may be more li
  
 ▪️ Additional services (device protection, online security, online backup, tech support, streaming tv, streaming movies) are dependent on churn
 
-▪️ The meachine learning model: logistic regression classifier is expected to predict churn with **81% accuracy** on future unseen data
+▪️ The meachine learning model: CAT Boost classifier is expected to predict churn with **84% accuracy** **(F1 score 0.84)** on future unseen data
 
 ## 8. Recommendations
 #### 1. Identify At-Risk Customers Using Churn Prediction
@@ -240,12 +240,10 @@ Unified Approach: Ensure that marketing, sales, and customer service teams work 
 <img width="985" alt="revenue_predictions" src="https://user-images.githubusercontent.com/105242871/179146427-9d27fc1f-9e83-4f54-b2ac-eef1f6048a26.png">
 
 
-##  Next Steps
+##  Further Steps
 ▪️ Collect more data on customers' **demographic information** (eg. place of residence, socio-economic data such as occupation, household income.)
 
 ▪️ Develop machine learning models with higher accuracy with these additonal data and more accurate features.
-
-▪️ Conduct **price discrimination analysis** to further determine the price point for each contract type and service.
 
 ## Conclusion
 By combining the insights from the analysis of churn drivers with proactive retention strategies informed by churn prediction, you can effectively address the underlying issues leading to customer churn. This comprehensive approach will enhance customer satisfaction, loyalty, and ultimately lead to improved business outcomes.
