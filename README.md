@@ -1,4 +1,4 @@
-# Telco Churn Analysis And Prediction 
+# Telco Customer Retention and Churn Prediction 
 
 ![img](images/churnimg.png)
 
@@ -84,8 +84,6 @@ In this project, we will use statistical testing to analyze the key factors of c
   - Hypothesis 1: Which categorical variables are associated with churn?
   - Hypothesis 2: Do customers who churn have higher average monthly charges than those who don't? 
   - Hypothesis 3: Does customers who churn has a shorter tenure on average than those who don't?
-
-![cheese]('images/graph1.png')
 
 #### 4. Data Preprocessing
 - Categorical data formated where necessary such as groups No service into No
